@@ -1,0 +1,17 @@
+/* Title Font*/
+@font-face {
+    font-family: Title1;
+    src: url(../WEBFONT/Bold/VIC-Bold.ttf);
+}
+
+/* Header Font*/
+@font-face {
+    font-family: Header1;
+    src: url(../WEBFONT/SemiBold/VIC-SemiBold.ttf);
+}
+
+/* Paragraph Font*/
+@font-face {
+    font-family: Par1;
+    src: url(../WEBFONT/Regular/VIC-Regular.ttf);
+}
